@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "5VXCCE8IUXkm7ooimVAgbK4VLp8gVJ7GO0OvV/tpPuTbFErOGgiaziWVOD5/cZ0A+2w/PIF7Bv6ZNLorht4iLA==",
+  "success": true,
+  "projectFilePath": "/Users/emileemontijo/Projects/WCTC-Battle/WCTC-Battle.csproj",
+  "expectedPackageFiles": [
+    "/Users/emileemontijo/.nuget/packages/microsoft.extensions.dependencyinjection/5.0.2/microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
+    "/Users/emileemontijo/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/5.0.0/microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "/Users/emileemontijo/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/emileemontijo/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512",
+    "/Users/emileemontijo/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
